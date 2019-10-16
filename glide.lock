@@ -1,0 +1,10 @@
+hash: 9c57a1ed1e02a70bf3d51418699b28beba5af77dcc22fdd6b61d60ab3e6364c2
+updated: 2019-10-16T20:42:02.0806568+07:00
+imports:
+- name: github.com/auth0/go-jwt-middleware
+  version: 36081240882bbf356af6efb152969e4b0bcf4456
+- name: github.com/dgrijalva/jwt-go
+  version: 06ea1031745cb8b3dab3f6a236daf2b0aa468b7e
+- name: github.com/gorilla/mux
+  version: 00bdffe0f3c77e27d2cf6f5c70232a2d3e4d9c15
+testImports: []
